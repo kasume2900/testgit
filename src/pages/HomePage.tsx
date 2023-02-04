@@ -5,7 +5,7 @@ export default function HomePage() {
   return (
     <>
     <div>HomePage</div>
-    <Link to='/about'>
+    <Link to='/testgit/about'>
       <button>ABOUT</button>
     </Link>
     </>
